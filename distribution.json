@@ -377,6 +377,16 @@
           }
         },
         {
+          "id": "goho_pixelmon_mod:goho_pixelmon_mod:1.0-SNAPSHOT@jar",
+          "name": "Goho_Pixelmon_mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4967,
+            "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/forgemods/required/goho_pixelmon_mod-1.0-SNAPSHOT.jar",
+            "MD5": "caa8ff3c9256c8812dc6fffc83b55d88"
+          }
+        },
+        {
           "id": "dareharu.haru:haru:0.47.1-SNAPSHOT@jar",
           "name": "Haru Mod",
           "type": "ForgeMod",
