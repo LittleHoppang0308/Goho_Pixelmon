@@ -417,6 +417,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6046996,
+            "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          }
+        },
+        {
           "id": "com.pixelmonmod:pixelmon:9.1.12@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
@@ -434,6 +444,50 @@
             "size": 7720153,
             "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.22.jar",
             "MD5": "9d1ecaa3e01a3542d67b9e430699798a"
+          }
+        },
+        {
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954784,
+            "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
+          }
+        },
+        {
+          "id": "BSL_v8.2.09p2.zip",
+          "name": "BSL_v8.2.09p2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954763,
+            "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/files/shaderpacks/BSL_v8.2.09p2.zip",
+            "MD5": "35b7bbb0b37868ef658aa5a847ed948f",
+            "path": "shaderpacks/BSL_v8.2.09p2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1.zip",
+          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409957,
+            "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441687,
+            "url": "http://minecraft.hoppang.kr/minecraft/content/Goho/gohopixelmon/servers/Goho_Pixelmon-1.16.5/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
           }
         }
       ]
