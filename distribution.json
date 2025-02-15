@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "Goho_Pixelmon-1.16.5",
-      "name": "고호 픽셀몬 서버 (Minecraft 1.16.15)",
+      "name": "고호 픽셀몬 서버 (Minecraft 1.16.5)",
       "description": "고호 픽셀몬 서버",
       "icon": "https://raw.githubusercontent.com/LittleHoppang0308/Goho_Pixelmon/refs/heads/main/images/icon.png",
       "version": "1.0.0",
